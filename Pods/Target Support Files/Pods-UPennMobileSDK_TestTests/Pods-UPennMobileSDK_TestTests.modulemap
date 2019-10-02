@@ -1,0 +1,6 @@
+framework module Pods_UPennMobileSDK_TestTests {
+  umbrella header "Pods-UPennMobileSDK_TestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
